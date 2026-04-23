@@ -1,0 +1,6 @@
+# Packet-style tables found in GC (4 total)
+
+[__index]  1 leaves: raknet
+[201461]  2 leaves: 231674, 255071
+[231674]  1 leaves: __index
+[256889]  1 leaves: 7609

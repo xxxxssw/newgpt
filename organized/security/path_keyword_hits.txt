@@ -1,0 +1,2 @@
+# Paths matching security/anticheat keywords
+- 020_instances.txt:201487:          Security  [ModuleScript]  ReplicatedStorage.exe_storage.tools.Building Tools.Core.Security
