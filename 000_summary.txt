@@ -1,0 +1,32 @@
+═══════════════════════════════════════════════════════════
+  ROBLOX CLIENT DUMP — SUMMARY
+═══════════════════════════════════════════════════════════
+
+ENVIRONMENT
+  PlaceId:    84394416472632
+  JobId:      5424a69b-3170-448a-8eae-2aed420abd6f
+  GameName:   Ugc
+  Executor:   unknown
+  PlayerName: Nanopad45
+  DumpedAt:   20260423_032349
+
+COUNTS
+  Instances:          63008
+  Scripts:            5081
+  Scripts decompiled: 0
+  Scripts failed:     5081
+  Remotes:            464
+  Packet tables:      4
+  GC tables:          0
+  GC functions:       10000
+  Elapsed:            17.94 seconds
+
+FILES
+  010_services.txt       — service tree shallow view
+  020_instances.txt      — full instance list with properties
+  030_remotes.txt        — every RemoteEvent/RemoteFunction/etc.
+  040_packet_tables.txt  — custom remote namespaces (.Send shape)
+  050_gc_tables.txt      — GC tables + shallow keys
+  051_gc_functions.txt   — GC functions + upvalues
+  scripts/               — one .lua per decompiled script
+  scripts_failed.txt     — scripts that couldn't decompile
